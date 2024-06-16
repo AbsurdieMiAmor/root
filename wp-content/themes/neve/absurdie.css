@@ -1,0 +1,745 @@
+/**
+Footnotes
+*/
+span.easy-footnote a{
+text-decoration: none !important;
+}
+
+div.easy-footnote-title h4 {
+margin-top:20px !important;
+margin-bottom:20px !important;
+}
+
+
+/**
+Titre SITE
+*/
+
+div.nv-title-tagline-wrap > p.site-title {
+	display:block;
+ 	color: #cd870a;
+	padding: 0px 10px 0px 42px;
+	text-transform: capitalize;
+	background-image: url("../../../ListPicDate.png");
+	background-position: 0.1em;
+	background-size: 1.2em;
+ 	background-repeat: no-repeat;
+	font-size:26px !important;
+}
+
+/**
+Image Story telling 
+*/
+img.nerverendingstorytelling {
+margin-top:0px !important;
+margin-left:0px !important;
+}
+
+@media only screen and (max-width: 600px) {
+img.nerverendingstorytelling {
+max-width:50%;
+height:auto;
+float:right;
+}
+}
+
+/**
+Situations en Home
+*/
+body.home div#situations1 .wp-block-tag-cloud.is-style-outline a {
+font-size:0.9em !important;
+}
+
+h4.wp-block-themeisle-blocks-advanced-heading-8b272c32 {
+padding: 0px 10px 0 0;
+font-size: 1.3em;
+font-family: courier,courier new,serif;
+font-weight: 700;
+color: rgb(39,38,38);
+margin-bottom: 0px;
+}
+
+body.home div#situations1 ul {
+margin-top: 20px !important;
+}
+
+/**
+Titre "Lancez-vous epxloration" en home
+*/
+h4.wp-block-themeisle-blocks-advanced-heading-12b3678a{
+padding: 20px 10px 20px 0;
+font-size: 1.3em;
+font-family: courier,courier new,serif;
+font-weight: 700;
+color: rgb(39,38,38);
+margin-bottom: 0px;
+}
+
+
+/**
+Vignettes dans articles
+*/
+.nv-single-post-wrap>div:not(:last-child) {
+margin-bottom:20px !important;
+}
+
+@media only screen and (min-width: 600px) {
+div.nv-thumb-wrap img {
+max-height: 400px !important;
+max-width: 50% !important;
+height: auto !important;
+width: auto !important;
+float: left !important;
+margin-right: 20px !important;
+margin-bottom: 15px !important;
+}
+}
+
+/**
+"Encre fraîche" foote
+*/
+
+.rpwe-block li {
+border-bottom: 2px groove !important;
+}
+
+p.ticss-4603312b a {
+    padding: 10px 10px 0 0;
+    font-size: 1.3em;
+    font-family: courier,courier new,serif;
+    font-weight: 700;
+    color: rgb(39,39,38);
+    margin-bottom: 0px;
+text-decoration: none !important;
+}
+
+p.ticss-4603312b {
+margin-top: 10px;
+margin-left:0px !important;
+margin-bottom: 10px;
+}
+
+/**
+Encre Fraiche haut home liste
+*/
+div#encrefraiche h3{
+font-size:1.1em !important;
+font-weight:600;
+}
+
+.rpwe-time{
+color:#fff !important;
+background-size:2.2em !important;
+display:block !important;
+margin-left:66px;
+font-size:0.9em !important;
+}
+
+
+div#Encre_Fraiche_haut_home>ul{
+margin-bottom:0px !important;
+margin-top:0px !important;
+}
+
+ul.rpwe-ul{
+margin-bottom:0px !important;
+margin-top:0px !important;
+}
+
+
+/**
+Pictos situations
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a, body.tag h1 {
+    background-size: 2.3em !important;
+    background-position-y: center !important;
+    background-position-x: 5px !important;
+    background-repeat: no-repeat !important;
+    padding-left: 50px !important;
+}
+
+.wp-block-tag-cloud.is-style-outline a {
+    background-position-y: center !important;
+    background-position-x: 5px !important;
+    background-size: 2.3em !important;
+    background-repeat: no-repeat !important;
+    padding-left: 45px !important;
+}
+
+/** Au ciné
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-60, body.tag-60 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-60 {
+    background-image: url(../../../pictocine.png) !important;
+}
+
+/** Au sport
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-61, body.tag-61 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-61 {
+    background-image: url(../../../pictoSport.png) !important;
+}
+
+/** Dans tes rêves
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-59, body.tag-59 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-59 {
+    background-image: url(../../../pictoReve.png) !important;
+}
+
+/** Fidèles compagnons
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-38, body.tag-38 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-38 {
+    background-image: url(../../../pictodog.png) !important;
+}
+
+/** Pharmacie
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-31, body.tag-31 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-31 {
+    background-image: url(../../../pictopharma.png) !important;
+}
+
+/** Suisse
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-44, body.tag-44 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-44 {
+    background-image: url(../../../pictosuisse.png) !important;
+}
+
+/** UK
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-43, body.tag-43 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-43 {
+    background-image: url(../../../pictoGB.png) !important;
+}
+
+/** Travail
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-42, body.tag-42 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-42 {
+    background-image: url(../../../pictotravail.png) !important;
+}
+
+/** Liberté conditionnelle
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-32, body.tag-32 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-32 {
+    background-image: url(../../../pictochaines.png) !important;
+}
+
+/** UK
+*/
+
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-43, body.tag-43 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-43 {
+    background-image: url(../../../pictoGB.png) !important;
+}
+
+/** A table
+*/
+
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-24, body.tag-24 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-24 {
+    background-image: url(../../../pictodiner.png) !important;
+}
+
+/** Nature
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-36, body.tag-36 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-36 {
+    background-image: url(../../../pictonature.png) !important;
+}
+
+/** Transports
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-25, body.tag-25 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-25 {
+    background-image: url(../../../pictotransports.png) !important;
+}
+
+/** Courses
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-37, body.tag-37 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-37 {
+    background-image: url(../../../pictocourses.png) !important;
+}
+
+/** Vu à la télé
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-29, body.tag-29 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-29 {
+    background-image: url(../../../pictotele.png) !important;
+}
+
+/** pAS VU à la télé
+*/
+div#situations1 .wp-block-tag-cloud.is-style-outline a.tag-link-45, body.tag-45 h1, .wp-block-tag-cloud.is-style-outline a.tag-link-45 {
+    background-image: url(../../../pictosinge.png) !important;
+}
+
+
+/**
+Initiales dans le Glossaire
+ * */
+body.page-id-1829 h2 {
+    text-decoration:underline !important;
+    background-color: #cd870a;
+    color: white;
+    padding-left: 10px;
+}
+
+/**
+Marge basse colonnes en home
+* */
+div.ticss-715c453a {
+margin-bottom:0px !important;
+}
+
+
+/**
+Autolinks
+ * */
+a.autolink {
+  background-color: #f0f0f161;
+}
+
+/**
+MailJet
+ * */
+div#block-82 {
+	margin-top : 30px;
+	margin-bottom : 30px;
+}
+
+.nav-ul li.current-menu-item>a:not([href*="#"]) {
+color:#f2cd8b;	
+}
+
+#header-grid div > small {
+	color:#cfbcbc;
+}
+
+.navbar-toggle {
+	--primarybtncolor: #23e11f;
+  --primarybtnhovercolor:
+}
+
+.nav-menu-primary .nav-ul li>a {
+	background:#cd870a;
+	padding:1px 5px 1px 5px;
+	margin-bottom:5px;
+	color:white;
+	font-size:0.95em;
+	font-weight:600;
+	font-family:monospace;
+}
+
+h4.H4twittos {
+	color: black !important;
+	font-size:1em;
+	background-color:#d9e8f3;
+	text-align:center;
+}
+
+authors-list-item, .authors-list-item-thumbnail a img {
+	text-align:center;
+	margin: auto;
+	padding-bottom:0px !important;
+}
+
+.authors-list-item {
+	margin-bottom:20px !important;
+	margin-top:10px !important;
+	padding-bottom:0px !important;
+}
+
+.authors-list-item-thumbnail {
+	margin-bottom:-10px !important;
+}
+
+div.authors-list-item.authors-list-item-clearfix.authors-list-col  {
+	width:3.6em !important;
+	margin-right:15px !important;
+}
+
+a.auth-2, span.repaire {
+  font-size:.9em;
+	background-color:#d9e8f3;
+	color:rgb(39,38,38);
+	background-image: url("../../../repere.png") !important;
+	background-position: em;
+	background-size: 1.4em;
+  background-repeat: no-repeat;
+	padding-left:30px;
+	margin-left:-20px;
+	font-family:monospace;
+	font-weight:400 !important;
+}
+
+body.page-id-544 li a {
+	background-image: url("../../../ListPicDate.png");
+	background-position: em;
+	background-size: 1.4em;
+  background-repeat: no-repeat;
+	padding-left:30px;
+	margin-left:-0p;
+	font-weight:600;
+	font-weight:bold;
+}
+
+body.page-id-544 div.nav-menu-footer li a {
+	background-image: none !important;
+ padding-left:0px;
+}
+
+
+body.page-id-544 blockquote {
+	border-width:3px;
+	display:inline-block;
+	padding: 10px 5px 0 5px;
+	margin-top: 0px;
+}
+
+body.page-id-544 blockquote ul {
+	margin-bottom: 0px;
+	margin-top:15px;
+}
+
+
+span.repaire {
+	margin-left:0px;
+}
+
+li.repaire2 {
+	font-family:monospace;
+	font-size:.9em;
+	margin-top:-20px;
+}
+
+span.sya_date.auth-2 {
+	display:none !important;
+}
+
+a.auth-2 ~ span.sya_author {
+  display:none;	
+}
+
+a.sya_postlink, span.sya_author {
+	font-family:monospace;
+	font-size:1em;
+}
+
+a.auth-2 ~ span.sya_tags {
+	display:none;
+	color:#0073aa;
+	font-weight:600;
+}
+
+span.sya_tags > span.sya_bracket {
+	display:none;
+}
+
+article.tag-repere, a.tag-link-40 {
+	display:none !important;
+}
+
+div.container.single-post-container  article.tag-repere {
+	display: block !important;
+}
+
+#content figure img {
+	border:1px solid;
+	border: solid 0px;
+	border-radius: 10px;
+	padding: 0 0 10px 0;
+	box-shadow: 1px 1px 10px #aaa; 
+}
+
+div.authors-list-item {
+
+}
+
+.wp-block-image figcaption {
+    text-align: center;
+    font-size: 140%;
+//	background-color:#cd870a;
+	  margin-bottom:em;
+	 font-family:monospace;
+}
+
+.wp-block-image figcaption a {
+  color: white;
+  font-weight: 400;
+  font-size: 0.8em;
+	background-color:#0073aa;
+}
+
+/**
+Titre "Encre Fraîche" Footer 2
+*/
+#wp-block-themeisle-blocks-advanced-heading-109c9cb2 {
+	margin-bottom:0px;
+}
+div#block-31 {
+	margin-bottom:-20px;}
+
+
+/**
+Titre "En images" Footer 3
+*/
+#wp-block-themeisle-blocks-advanced-heading-23d074f0 {
+	margin-bottom:5px;
+}
+div#block-97 {
+	margin-bottom:5px;}
+
+/**
+Titre "En vidéos" Footer 3
+*/
+#wp-block-themeisle-blocks-advanced-heading-4a704ff9 {
+	margin-bottom:5px;
+}
+div#block-99 {
+	margin-bottom:5px;}
+
+
+#content div.authors-list-item-main > div.authors-list-item-title > a {
+	font-size:0.6em;
+}
+
+div#text-1 {margin-bottom:10px
+}
+
+body.tag h1 {
+	background-color: #0073aa !important;
+}
+
+div.nv-title-tagline-wrap > small {
+	margin-left:40px;
+	font-size : 0.9em;
+	margin-top:-0.5em;
+}
+
+Image gorloges page Frise
+.img-horloges {
+	margin-top:-20px
+}
+
+.published {
+	font-family: monospace;
+  padding: 0px 3px 0px 40px;
+  color: white;
+  background-color: #cd870a;
+  text-transform: uppercase;
+	display:inline-block;
+	background-image: url("../../../ListPicDate.png");
+	background-size: 2.2em;
+  background-repeat: no-repeat;
+}
+
+div.pt-cv-meta-fields > span.entry-date {
+	font-family: monospace;
+	display:block;
+  color: white;
+	padding: 0px 3px 0px 40px;
+  background-color: #cd870a;
+  text-transform: uppercase;
+		background-image: url("../../../ListPicDate.png");
+	background-size: 2.2em;
+  background-repeat: no-repeat;
+}
+
+h4.pt-cv-title {
+    font-size: 1em;
+}
+
+div.pt-cv-ifield>*, .pt-cv-view .pt-cv-content-item>* {
+	margin-bottom:3px !important;
+}
+
+
+div#block-27, #block-27 > h4 {
+	margin-bottom:0px;}
+
+.pt-cv-view .pt-cv-title {
+	margin-bottom:5px;
+}
+
+span.post-date, span.fulguration {
+	font-family: monospace;
+	display:block;
+  color: white;
+	padding: 0px 3px 0px 40px;
+	margin: 8px 0 0 5px;
+  background-color: #cd870a;
+  text-transform: uppercase;
+		background-image: url("../../../ListPicDate.png");
+	background-size: 2.2em;
+  background-repeat: no-repeat;
+	position:above;
+	z-index:-5;
+}
+
+span.fulguration {
+	display:inline;
+	background-size: 2.0em;
+	font-size:.85em!important;
+	padding: 3px 3px 3px 35px;
+	margin:0px;
+  text-transform: none;
+	z-index:-5;
+}
+
+.ppdswidgetrecentposts img {
+	width:40px;
+	padding:5px;
+	z-index:8;
+  border-radius: 50%;
+  transform: translateY(35%);
+  margin-right: 3px;align-content
+}
+
+.widget_recent_entries a {
+	font-size:1em;
+}
+
+#recent-posts-1 > ul > li {
+	border: solid 0px;
+	border-radius: 10px;
+	padding: 0 0 10px 0;
+	box-shadow: 4px 4px 4px 
+#aaa; 
+}
+
+body.tag #content > div > div > div.nv-index-posts.blog.col > div.nv-page-title-wrap.nv-big-title > div > h1 {
+margin: 0 10px 10px 0;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff!important;
+    padding: 10px;
+    border-radius: 4px;
+    background: #0073aa;
+    line-height: 1;
+    font-size: 1em!important;
+    display: inline-block;
+}
+
+.wp-block-tag-cloud.is-style-outline a, span.situation {
+margin: 0 10px 10px 0;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff!important;
+    padding: 10px;
+    border-radius: 4px;
+    background: #0073aa;
+    line-height: 1;
+    font-size: .85em!important;
+    display: inline-block;}
+
+div#situations1 .wp-block-tag-cloud.is-style-outline a {
+  font-size: 1.1em!important;
+	background:#0073aa;
+}
+
+.nv-tags-list a, .tagcloud a {
+	background: #0073aa;}
+
+span.situation {
+	font-size:.85em!important;
+	padding:5px;
+	margin:0px;
+  text-transform: none;
+}
+
+.widget li {
+    margin-top: 10px;
+    border-left: none;
+    color: orange;
+    padding-left: 5px;
+}
+
+#sya_container > ul > li > div > span.sya_date {
+	font-family: monospace;
+	font-size:1em;
+	display:inline-block;
+  text-transform: capitalize;
+}
+
+#sya_container > ul  {
+	list-style-image: linear-gradient(to left bottom, orange, blue);
+}
+
+#sya_container > a {
+	font-family: monospace;
+	display:inline-block;
+  color: white;
+	padding: 0px 3px 0px 5px;
+  background-color: #cd870a;
+  text-transform: uppercase;
+}
+
+blockquote {
+	border-color: #eae5e5
+}
+
+div.envira-gallery-item-inner {
+	margin:10px;
+}
+
+.ticss-48cd44e7 {
+	width:50%;
+}
+
+div.nv-content-wrap.entry-content > figure {
+	margin-right:10px !important;
+}
+
+div.addtoany_header {
+	float:left;
+	font-family: monospace;
+        font-size: .9em;
+	display:inline;
+}
+
+div.addtoany_content    {
+	border: solid 2px;
+        padding: 5px;
+	border-color: #cd870a;
+	padding:10px 5px 0px 10px;
+	display:inline-block;
+	background-color: #cd870a;
+	color: white;
+}
+
+div.nv-content-wrap {
+	margin-bottom: 10px !important;
+}
+
+.saboxplugin-wrap .saboxplugin-desc a {
+	color: #00acee;
+	font-weight:600;
+		background-image:url("../../../iconetwitter1.png");
+  background-position: top 7px left 0px;
+	background-size: 1.1em;
+  background-repeat: no-repeat;
+	padding: 5px 5px 5px 25px;
+}
+
+.saboxplugin-wrap .saboxplugin-authorname a {
+    text-decoration: none;
+    font-family: monospace;
+  	font-size: .9em ;
+}
+
+body.archive.author h1 {
+	margin-bottom:0px;
+}
+
+ body.archive.author h1 ~ p> a {
+	color: #00acee;
+	font-weight:600;
+	font-size:.9em;
+	font-family: monospace;
+			background-image:url("../../../iconetwitter1.png");
+  background-position: top 1px left 0px;
+	background-size: 1.1em;
+  background-repeat: no-repeat;
+	padding-left:25px;
+	 
+}
+
+body.archive.author h1 ~ p {
+	margin-bottom:10px !important;
+}
+
+/**  IMG FRISE **/
+img.wp-image-696 {
+margin-top: 0px !important;	
+}
